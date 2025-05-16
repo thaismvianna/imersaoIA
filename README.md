@@ -1,2 +1,2 @@
 # imersaoIA
-Imersao da plataforma Alura sobre IA com o Google Gemini. 
+Imersao da plataforma Alura com o Google sobre IA utlizando o Google Gemini. 
