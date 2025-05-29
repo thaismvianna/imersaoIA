@@ -34,7 +34,7 @@ Oferece dicas e orientações para quem está iniciando na área de tecnologia, 
 3. Execute o notebook no Google Colab
 
 ## 📌 Status
-🟡 Projeto finalizado 
+✅ Projeto finalizado
 ---
 
 Desenvolvido por **Thaís Vianna**  
