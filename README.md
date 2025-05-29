@@ -25,10 +25,16 @@ Oferece dicas e orientações para quem está iniciando na área de tecnologia, 
 - Gemini API (Google AI)
 - IA generativa
 
-## 📌 Status
-🟡 Projeto **em andamento**  
-📝 Implementação inicial feita no Google Colab, em fase de ajustes e complementação de lógica e interface.
+## Como configurar
 
+1. Obtenha uma API Key no [Google AI Studio](https://aistudio.google.com/)
+2. No código:
+   - Localize: `GOOGLE_API_KEY = "SUA_CHAVE_AQUI"`
+   - Substitua `"SUA_CHAVE_AQUI"` pela sua chave real
+3. Execute o notebook no Google Colab
+
+## 📌 Status
+🟡 Projeto finalizado 
 ---
 
 Desenvolvido por **Thaís Vianna**  
